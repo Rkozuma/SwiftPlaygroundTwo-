@@ -57,9 +57,9 @@ else
 // PROBLEM SET 2:
 
 var string1 = "Hello"
-var string2 = "Goodbye"
+var string2 = "Hello"
 
-if string1 == "Hello"
+if string1 == string2
 {
     print("Hello, you!")
 }
