@@ -37,3 +37,50 @@ else
 {
     print("I'm not sure about coding...")
 }
+
+
+// PROBLEM SET 1:
+
+var Number1 = 2
+var Number2 = 3
+
+if Number1 > Number2
+{
+    print("Number one is bigger than number two.")
+}
+else
+{
+    print("Number two is bigger than number one.")
+}
+
+
+// PROBLEM SET 2:
+
+var string1 = "Hello"
+var string2 = "Goodbye"
+
+if string1 == "Hello"
+{
+    print("Hello, you!")
+}
+else
+{
+    print("Goodbye.")
+}
+
+
+// PROBLEM SET 3:
+
+var Number3 = 4
+var Number4 = 5
+
+var comparison1 = Number3 > Number4
+
+if comparison1 == true
+{
+    print("The comparison of the two numbers is TRUE!")
+}
+else
+{
+    print("The comparison of the two numbers is FALSE!")
+}
