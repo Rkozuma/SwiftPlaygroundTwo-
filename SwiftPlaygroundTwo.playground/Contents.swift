@@ -71,12 +71,10 @@ else
 
 // PROBLEM SET 3:
 
-var Number3 = 4
-var Number4 = 5
+var Number3 = true
+var Number4 = false
 
-var comparison1 = Number3 > Number4
-
-if comparison1 == true
+if Number3 == Number4
 {
     print("The comparison of the two numbers is TRUE!")
 }
