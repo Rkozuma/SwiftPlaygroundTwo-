@@ -28,7 +28,7 @@ var gradeA = true
 
 // creating the if-else statement
 
-if gradeA
+if gradeA == true
 {
     print("I really like this class")
 }
